@@ -7,3 +7,4 @@ Social Application
 •	Chat 
 •	Profile
 Developed using Dart, Flutter, Firebase, Bloc.
+Thanks For Abdullah Mansour Udemy 
